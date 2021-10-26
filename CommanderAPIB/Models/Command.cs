@@ -12,5 +12,8 @@ namespace CommanderAPIB.Models
         public string Line { get; set; }
         public string Platform { get; set; }
 
+
+
+
     }
 }
